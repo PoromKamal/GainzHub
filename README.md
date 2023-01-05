@@ -14,6 +14,8 @@ and combining it with social media, and content creation where you can:
 
 Gainzhub was created to build and strengthen the fitness community. You can now view how your friends, family, and favourite influencers eat, workout, and progress throughout their fitness journey. Providing you with the empowerment and resources to do the same.
 
+## Tech
+React Native, NodeJS, AWS S3, MongoDB, Express, Expo
 
 ## Previews
 <img src="https://user-images.githubusercontent.com/62628923/208286213-6a0024b5-2942-4262-b5e9-533db7a33daf.png" alt="alt text" width="331" height="700">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/62628923/208286218-f8509223-179a-4b3d-b956-a552a13a5ec4.png" alt="alt text" width="331" height="700">
